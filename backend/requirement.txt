@@ -4,3 +4,4 @@ torch==2.1.0
 faiss-cpu
 sentence-transformers
 transformers
+gunicorn
